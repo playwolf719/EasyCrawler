@@ -4,7 +4,6 @@
 ## 简介
 --------
 - dynamic_scrapy
-
 使用scrapy+splash，操作js实现动态抓取。
 
 - house
