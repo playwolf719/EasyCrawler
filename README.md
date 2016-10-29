@@ -5,7 +5,7 @@
 --------
 - dynamic_scrapy
 
-使用scrapy+splash，操作js实现动态抓取
+使用scrapy+splash，操作js实现动态抓取。
 
 - house
 
@@ -14,4 +14,5 @@
 
 - movie
 
-使用urllib2等python常规工具实现，操作js实现动态抓取
+使用urllib2等python常规工具实现，实现BT天堂片源+豆瓣评分定时爬取。
+![test](https://i.imgsafe.org/4bb429517f.jpg)
