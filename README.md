@@ -14,5 +14,5 @@
 
 - movie
 
-使用urllib2等python常规工具实现，实现BT天堂片源+豆瓣评分定时爬取。
+使用urllib2等python常规工具实现BT天堂片源+豆瓣评分定时爬取。
 ![test](https://i.imgsafe.org/4bb429517f.jpg)
