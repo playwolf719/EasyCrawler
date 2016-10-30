@@ -9,7 +9,7 @@
 
 - house
 
-使用scrapy+动态代理（蚂蚁代理）实现防反扒抓取司法淘宝房源信息。
+使用scrapy+动态代理（蚂蚁代理）实现防反扒抓取司法淘宝房源信息27万多条。
 ![test](https://i.imgsafe.org/4babe875bb.jpg)
 
 - movie
