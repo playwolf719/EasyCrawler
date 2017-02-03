@@ -5,7 +5,7 @@
 --------
 - dynamic_scrapy
 
-使用scrapy+splash，操作js实现动态抓取。
+使用scrapy+splash，操作js实现动态抓取。[相关链接](http://www.jianshu.com/p/2516138e9e75)
 
 - house
 
