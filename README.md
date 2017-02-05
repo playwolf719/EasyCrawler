@@ -14,5 +14,5 @@
 
 - movie
 
-使用urllib2等python常规工具实现BT天堂片源+豆瓣评分定时爬取。[相关demo](http://123.206.34.198:3001/movie)
+使用urllib2等python常规工具实现BT天堂片源+豆瓣评分定时爬取。[展示站点](http://123.206.34.198:3001/movie)
 ![test](https://i.imgsafe.org/4bb429517f.jpg)
