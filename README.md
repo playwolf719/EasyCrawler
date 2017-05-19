@@ -15,4 +15,4 @@
 - movie
 
 使用urllib2等python常规工具实现BT天堂片源+豆瓣评分定时爬取。[展示站点](http://123.206.34.198:3001/movie)
-![test](https://i.imgsafe.org/4bb429517f.jpg)
+![test](https://camo.githubusercontent.com/2ef8810f0e894bcd3421f7fa2b9dac21f920a305/687474703a2f2f7331372e706f7374696d672e6f72672f3934666a77703776332f51515f32303136313032383135303732322e6a7067)
